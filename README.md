@@ -37,6 +37,14 @@ Here is the result from the Nginx dashboard:
 
 ![Nginx Result](./nginx.png)
 
+## Docker Dashboard Results
+
+Here are the results from the Docker dashboard:
+
+![Docker Result 1](./docker1.png)
+
+![Docker Result 2](./docker2.png)
+
 ## Installation
 
 1. Ensure you have Docker and Docker Compose installed on your system. If not, you can download them from the official Docker website.
