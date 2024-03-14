@@ -17,33 +17,33 @@ The application, Nginx, MongoDB, and Elasticsearch are all containerized using D
 
 Here are the results from the Elasticsearch dashboard:
 
-![Elasticsearch Result 1](./ES1.png)
+![Elasticsearch Result 1](./images/ES1.png)
 
-![Elasticsearch Result 2](./ES2.png)
+![Elasticsearch Result 2](./images/ES2.png)
 
-![Elasticsearch Result 3](./ES3.png)
+![Elasticsearch Result 3](./images/ES3.png)
 
 ## MongoDB Dashboard Results
 
 Here are the results from the MongoDB dashboard:
 
-![MongoDB Result 1](./mongodb1.png)
+![MongoDB Result 1](./images/mongodb1.png)
 
-![MongoDB Result 2](./mongodb2.png)
+![MongoDB Result 2](./images/mongodb2.png)
 
 ## Nginx Dashboard Results
 
 Here is the result from the Nginx dashboard:
 
-![Nginx Result](./nginx.png)
+![Nginx Result](./images/nginx.png)
 
 ## Docker Dashboard Results
 
 Here are the results from the Docker dashboard:
 
-![Docker Result 1](./docker1.png)
+![Docker Result 1](./images/docker1.png)
 
-![Docker Result 2](./docker2.png)
+![Docker Result 2](./images/docker2.png)
 
 ## Installation
 
